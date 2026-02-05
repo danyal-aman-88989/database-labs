@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains a collection of labs and exercises for learning and practicing database management and SQL queries. The primary focus of these labs is to provide hands-on experience with PostgreSQL, including database creation, schema design, querying, and troubleshooting.
+This repository contains a collection of labs and exercises for learning and practicing database management and SQL queries and its applications. The primary focus of these labs is to provide hands-on experience with PostgreSQL, including database creation, schema design, querying, and troubleshooting.
 
 ## Contents
 
