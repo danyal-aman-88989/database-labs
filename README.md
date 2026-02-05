@@ -1,7 +1,5 @@
-Here's a natural and professional "README" for your database labs repository:
 
 ---
-
 # Database Labs Repository
 
 ## Overview
